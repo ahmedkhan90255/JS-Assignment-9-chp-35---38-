@@ -4,6 +4,6 @@ document.write(
 var firstName = prompt("Enter Your First Name");
 var lastName = prompt("Enter Your Last Name");
 function greet() {
-    document.write("<h2>Asslamoalaikum " + firstName + lastName + "</h2>" )
+  document.write("<h2>Asslamoalaikum " + firstName + lastName + "</h2>");
 }
-greet()
+greet();
