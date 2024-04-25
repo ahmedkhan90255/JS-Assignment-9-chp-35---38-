@@ -18,7 +18,6 @@ function factorial(inputNum) {
   }
 }
 
-// Example usage:
 let number = inputNum;
 let result = factorial(number);
 document.write("<h2> The factorial of " + number + " is: " + result + "</h2>");
